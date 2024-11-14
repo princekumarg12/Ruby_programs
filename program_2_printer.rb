@@ -12,5 +12,4 @@ def printer(n)
   end
 end
 
-p printer(6)
-p printer(12)
+p printer(20)
