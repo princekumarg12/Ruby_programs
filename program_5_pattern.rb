@@ -10,3 +10,4 @@ def pattern_printer(n)
 end
 
 p pattern_printer(5)
+p pattern_printer(10)
