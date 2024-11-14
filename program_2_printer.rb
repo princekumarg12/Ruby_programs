@@ -13,3 +13,4 @@ def printer(n)
 end
 
 p printer(6)
+p printer(12)
